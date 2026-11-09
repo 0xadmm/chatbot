@@ -1,9 +1,6 @@
 Un chatbot développé en Python avec la bibliothèque PyTorch.
 
-Ce chatbot est mon premier pas dans le monde de l'IA avec la programmation. 
-
-Son fonctionnement est simple : cette IA est capable de reconnaitre l'intention(intent) d'un message en fonction de certains mots présents dans la phrase(pattern).
-Cependant ce chatbot ne connait qu'un vocabulaire restreint et ne comprend pas profondément le sens et les subtilités d'une phrase tel qu'un modèle de langage pourrait le faire. 
+Son fonctionnement : l'IA est capable de reconnaitre l'intention(intent) d'un message en fonction de certains mots présents dans la phrase(pattern). Ensuite il donne la réponse appropriée parmis une banque de réponses prédéfinies et rangées sous la forme de base de données.
 
 
 # Installation 
